@@ -1,4 +1,4 @@
-![Random Array Initializer Icon](https://copilot.microsoft.com/th/id/BCO.9a7f3c2e-8b4e-4f2a-9c3e-7d2f4e8f5a1c.png).
+
 
 🎲 Random Array Initializer – C# Console App
 
